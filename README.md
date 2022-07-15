@@ -36,9 +36,8 @@ It's a good idea to prepare by reading the whole script well before starting the
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
-
-# PART 1: Mud battery protocol
-## Intro: [![Introduction video for the first part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE](https://youtu.be/PvUQ04al4Qs](https://youtu.be/PvUQ04al4Qs)
+##  Part 1: Mud Battery protocol
+[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE](https://youtu.be/PvUQ04al4Qs)
 
 ## Facilitators: collecting mud for the battery
 
@@ -65,7 +64,7 @@ Make sure you take mud as well as some water (see image below).
 - Mud (samples should be collected in advance)
 - Containers with big opening on top( ex: glass jar or plastic - around 1L)
 - Electric wires ( Copper wires 30 cm - 2 wires are needed per battery)
-- Stainless steel grids to be cut. Size : around 8 x 8 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but they are less conductive. You can use also kitchen strainer mesh. You can cut the net the size that fits your container. Tip: if you make it a long strip for instance (ex: 8 x 20) and curl it without making the surface touch, it will give better results.
+- Stainless steel grids to be cut in rectangles. Size : around 8 x 8 cm, but can change according to the size and shape of your container. Aluminium nets are good to use but they are less conductive. You can use also kitchen strainer mesh. You can also experiment with the size of the net, for example: making it like a strip 8 x 20, to have more surface area. In this case tou can roll it without making the surfaces touch.
 - Epoxy glue (included in kit)
 - Small brush to spread the glue.
 - Active coal (included in kit)
@@ -173,7 +172,7 @@ To make the cathodes you need the active coal, epoxy glue, metal nets and electr
 
 <img src="./images/cathode1.png" alt="" width="800"/>
 
-- Secondly, cut two nets in a rectangular shape around 8x8 cm. Place the two rectangulars on top of each other to give a stronger surface so it can hold the glue and coal well. fold the edges of the layered nets so they are attached to each other.
+- Secondly, cut two net in a rectangular shape 8x8cm. place them in opposite directions and fold the edges so they are attached. We make two layers so it can hold the glue and coal well.
 
 - Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing, add coal and press again. It is very important that the coal is covering the whole surface.
 
