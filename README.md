@@ -349,7 +349,7 @@ Gather all your components. These should be in the kit provided to your node, or
 **LED:**
 Note that this part has polarity, so should be connected with the right orientation. The LONGER leg (usually with the bend) is marked in RED in the diagrams. The SHORTER leg is marked in BLACK in the images and is always connected to GND (or -).
 
-**NPN transistor:** Note that this part also has an orientation. In the diagram you see that the transistor's flat side is facing you, and the round side is facing the away. Make sure you copy this orientation when you connect it to your breadboard.
+**NPN transistor:** Note that this part also has an orientation. In the diagram you see that the transistor's flat side is facing you, and the round side is facing away. Make sure you copy this orientation when you connect it to your breadboard.
 
 **Your inductor coil:** obviously looks different :) In the diagram you see the two wires making up the coil marked with a different color (blue or yellow). Ours are both copper colored but you will have marked them with tape or measured with a multimeter. The leads on the right are connected to row 16, with the + side of your battery. You can either wrap them making one leg so to speak, or keep them separated and just connect both on the same row. Both options are a way of connecting them.
 
@@ -444,7 +444,7 @@ Materials list should be shared with remote participants ASAP so they can order 
 Node facilitates a session for participant to pair up based on shared interest, choose one or more of the following:
 
 * Join the collective reading moment that will take place inside this [etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text by Alexander Galloway. 
-* Make a mud battery (work together remotely in small groups, those who were able to get materials), note that it needs to rest to charge! 
+* Make a mud battery (work together remotely in small groups, those who were able to get materials)
 * Make a joulethief (those who were able to get the materials) and use it with an old half-empty AA battery
 * Design a communication protocol and test it out via webcam/audiocall. This can be done with readily available household materials, like a small torch or penlight, knocking on the table for sound, flashing a red piece of paper at a webcam.
 
