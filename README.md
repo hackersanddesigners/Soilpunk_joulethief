@@ -36,7 +36,7 @@ It's a good idea to prepare by reading the whole script well before starting the
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
-##  Part 1: Mud Battery protocol by Hackitects
+## 1. Materials & tools
 
 
 ### Facilitators: collecting mud for the battery
