@@ -1,7 +1,7 @@
 # Soilpunk workshop HDSA22
 
 
-<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/>
+<img src="./images/soilpunkwsimage.jpg" alt="" width="600"/> <br>*Image of a warped grid with yellow glow and growing cell culture, on top the word "SoilPunk" and below "Hackitects" and "Hackers & Designers"*
 
 This workshop is developed by the two collectives Hackers 
 & Designers and Hackitects in the context of the H&D Summer Academy 2022 *Connecting Otherwise*. We invite participants and facilitators of the different nodes to imagine and try out ways to radically reduce the energy use associated with communication technologies such as the Internet and consider a low-tech approaches to 'connecting otherwise'. 
@@ -36,10 +36,10 @@ It's a good idea to prepare by reading the whole script well before starting the
 4. [Workshop version 2 - hybrid](https://github.com/hackersanddesigners/Soilpunk_joulethief#workshop-version-2-hybrid)
 
 
-##  Part 1: Mud Battery protocol
-[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE](https://youtu.be/PvUQ04al4Qs)
+##  Part 1: Mud Battery protocol by Hackitects
 
-## Facilitators: collecting mud for the battery
+
+### Facilitators: collecting mud for the battery
 
 Look for reddish brown soil (rich in iron) near river beds and swamps, areas where water has a reddish color. Preferably collect deep samples not from the surface. 
 
@@ -47,9 +47,9 @@ About 1 liter makes 2 batteries. Ideally you get it a few days before the worksh
 
 Make sure you take mud as well as some water (see image below).
 
-<img src="./images/mud_locations.png" alt="" width="600"/>
+<img src="./images/mud_locations.png" alt="" width="600"/> <br>*Grid with images of creeks with reddish brown water*
 
-<img src="./images/mudscoop.jpg" alt="" width="400"/>
+<img src="./images/mudscoop.jpg" alt="" width="400"/><br>*Image of a plastic shovel heaped with wet mud, in the background a creek and grasss*
 
 ### Tools for the mud battery
 
@@ -76,7 +76,7 @@ Make sure you take mud as well as some water (see image below).
 - Liquids measuring cup
 - Tape (or anything to mark different wires)
 
-<img src="./images/materials.png" alt="" width="600"/>
+<img src="./images/materials.png" alt="" width="600"/> <br>*Image with a jar of agar, epoxy glue (included in kit), jar with active coal capsules (included in kit), a pot on aluminum foil, a two-wired electrical cable, a kitchen scale with 10g agar powder, a ziplock bag with mud, a jug with water, metal mesh, and a multimeter*
 
 
 ## Materials & tools for the joule thieves
@@ -101,7 +101,7 @@ One components kit (for **two** participants) contains:
 * piece of sanding paper
 
 
-<img src="./images/parts.jpeg" alt="" width="600"/>
+<img src="./images/parts.jpeg" alt="" width="600"/><br>*Image of electric components on a table, marked "included in kit plus: a battery clip and alligator clips": enameled copper wire, breadboard, LED, NPN transistor, tact switch/button, ferrite toroid, AA battery, a 1K resistor, and a buzzer*
 
 
 ### NOT included in kit:
@@ -134,10 +134,11 @@ Duration: 4 hours
 ## Part 1: Making biobatteries - duration: 3 hours
 
 
-### Intro soil & geo-bacteria (video + facilitator manual) - approx 15 mins
+### Intro soil & geo-bacteria by Hackitects - approx 15 mins
 
-<span style="color:red">**Additional details coming soon!**</span>
+Watch this introductory video together prepared by Hackitects, then continue following the steps. Reading the additional information is optional, but might be interesting further reading!
 
+[![Introduction video for the second part of the Soilpunk workshop](./images/hackitects.png)](https://youtu.be/PvUQ04al4Qs)<br> *Introduction video for the second part of the Soilpunk workshop (click to play on Youtube)*
 
 **References** 
 
@@ -149,46 +150,49 @@ Duration: 4 hours
 
 Scientists have experimented with a variety of bacteria, but one kind that environmental microbiologist Derek Lovly at the University of Massachusetts at Amherst and his colleagues have focused on is Geobacter, which is naturally found in many soils and sediments. 
 
-<img src="./images/geobacter.png" alt="" width="600"/>
+<img src="./images/geobacter.png" alt="" width="600"/><br>*Image of a forest with the sentence "The Geobacter sulfurreducens is a bacteria that can purify water while continuously excreting electrons to its surrounding."*
 
-*"Geobacter grows by breaking down organic materials and transferring electrons pretty much onto anything that looks like iron", he said. "It's up in the top of the list in terms of generating high power densities".*
+Geobacter grows by breaking down organic materials and transferring electrons pretty much onto anything that looks like iron", he said. "It's up in the top of the list in terms of generating high power densities.
 
 When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter can break down some 90 percent, Lovley said. All in all, systems incorporating Geobacter can recover up to nearly all the electrons within sewage. 
 
-<img src="./images/geobacter_sulfurreducens.png" alt="" width="600"/>
+<img src="./images/geobacter_sulfurreducens.png" alt="" width="600"/><br>*Table 1: Comparison of geobattery with previous microbial fuel cells. Column 1: Previous microbial fuel cells. Oxidation of organic fuel: incomplete. Requirement for toxic electron shuttles to function: yes. Recovery of electrons as electricity: 1-50%. Long-term stability: poor. Ability to function in “open” environments: No. Column 2: Geo battery
+Oxidation of organic fuel: complete. Requirement for toxic electron shuttles to function: No. Recovery of electrons as electricity: 80-95%. Long-term stability: excellent. Ability to function in “open” environments: Yes.*
 
 **Where to find geobacter?**
 
 *Amsterdam-Noord, the Netherlands*
 
-<img src="./images/wheretofind_ams.png" alt="" width="600"/>
+<img src="./images/wheretofind_ams.png" alt="" width="600"/><br>*Image of a map of Amsterdam north on the left. On the right three stacked images: 1) a red shovel scooping mud from brownish water. 2) A canal on the Dutch countryside with a walkway, and 3) brown coloured water lined by grass, surrounding trees are reflected in the water.*
 
 ### Making the mud battery - approx 150 mins
 
 #### 1. Making the Cathodes
+
 To make the cathodes you need the active coal, epoxy glue, metal nets and electric wires.
 
-- First empty the pills of the active coal provided to get the powder out, and place it on a sheet. (about 10 pills powder per 1 cathode disc)
+<img src="./images/cathode1.png" alt="" width="800"/><br>*Four in-line images showing hands performing the steps described in what follows*
 
-<img src="./images/cathode1.png" alt="" width="800"/>
+Image 1. First empty the pills of the active coal provided to get the powder out, and place it on a sheet. (about 10 pills powder per 1 cathode disc)
 
-- Secondly, cut two net in a rectangular shape 8x8cm. place them in opposite directions and fold the edges so they are attached. We make two layers so it can hold the glue and coal well.
+Image 2-3. Secondly, cut two net in a rectangular shape 8 x 8cm. Place them in opposite directions and fold the edges so they are attached. We make two layers so it can hold the glue and coal well.
 
-- Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. Cover the brushed net with the active coal powder and press it very well. After pressing, add coal and press again. It is very important that the coal is covering the whole surface.
+Image 4. Then brush the glue on the net and make sure that you add enough glue and that it is brushed evently on the surface of the net. 
 
-- After making sure that all the net is covered and pressed with coal, connect the net from one of the sides to an electric wire. At the end you might need to bend the net to fit your container. Bend it, but be sure not to make the edges touch each other. More coal surface is better! Now leave it to fully dry. 
+<img src="./images/cathode2.png" alt="" width="800"/> <br>*Four in-line images showing hands performing the steps described in what follows*
 
-<img src="./images/cathode2.png" alt="" width="800"/>
+Image 5-6. Cover the brushed net with the active coal powder and press it very well. After pressing, add coal and press again. It is very important that the coal is covering the whole surface.
+
+Image 7-8. After making sure that all the net is covered and pressed with coal, connect the net from one of the sides to an electric wire. At the end you might need to bend the net to fit your container. Bend it, but be sure not to make the edges touch each other. More coal surface is better! Now leave it to fully dry. 
 
 
 #### 2. Preparing first part of the Soil Battery
 
 For this step you need the container (glass jar), mud, the dried cathodes.
 
+<img src="./images/cathode3.png" alt="" width="800"/><br>*Image: on the left the finished cathode, on the right two glass jars half filled with mud, with a wire from the cathode coming out of the opening*
+
 - First put the cathode in the container (make sure that the glue dried and the coal is stuck to it).
-
-<img src="./images/cathode3.png" alt="" width="800"/>
-
 - Secondly, fill the jar with mud so it covers the cathode, keeping the wire out of the container.
 - Mark the wire with tape to identify that its negative. (black = negative)
 - Then hit the container to get all the trapped air bubbles out. It is VERY IMPORTANT to release the air bubbles from the mud.
@@ -196,16 +200,13 @@ For this step you need the container (glass jar), mud, the dried cathodes.
 
 #### 3. Making the proton exchange membrane
 
-Per battery: to make the membrane you need 10 gram Agar, 285ml
-water, 2 gram broth powder, stove, and pan.
+<img src="./images/agar_membrane.png" alt="" width="800"/><br>*Grid of images showing the process of preparing and pouring the agar described in the steps below*
 
+- Measure the amounts you need per battery: to make the membrane for a 0.5-1.0L mud battery you need 10 gram Agar, 285ml water, 2 gram broth powder, stove, and pan.
 - First put the agar, broth and water in a pot on low temperature. keep on stirring the mix.
 - wait 3 minutes after boiling, then turn off the fire.
 - Wait until the temperature of the mixture goes down. When it cools down the mixture become harder until its gelatine. That’s why it’s important to not wait until it’s cooled down completely.
 - While the mix is still somehow warm and in a liquid state. You pour the mixture in the jar over the soil. **This is step must be done in 2 parts.** First add half of the mix and make sure that the cathode wire is coming out from the middle. Wait 1 minute then add the second half, to make sure that the first layer hardens, stays over the soil and not mix with it. Also, make sure to keep the wire of the cathode in the center while the agar is hardening. This would be easier to follow the next steps.
-
-<img src="./images/agar_membrane.png" alt="" width="800"/>
-
 - After pouring the agar in the jar,wait for 10 mins so the agar is completely hard and settled.
 - Make sure the top part of the jar over the agar is clean from any mud. If not, you should clean it using a tissue. 
 - Add water on top of the agar so it fills the jar.
@@ -213,22 +214,22 @@ water, 2 gram broth powder, stove, and pan.
 - Measure the current with multimeter. Check the voltage and the current(A).
 - We get a ready of 1V when the battery is freshly made.
 
-<img src="./images/battery_demonstration.png" alt="" width="600"/>
+<img src="./images/battery_demonstration.png" alt="" width="600"/><br>*Image of a mud battery in a glass jar: half filled with mud, then a layer of solidified agar, and filled to the top with clean tap water. Two cables are coming from the jar and are connected to an LED for illustration purposes.*
 
 #### 3. Connecting the batteries in parallel
 
 - The water part in the battery is (+) and the mud part is (-). When connecting two batteries in pralel the (-) from the first battery should be connected to the (-) in the second one, and the (+) from the first to the (+) in the second. Then the (-) and (+) should be connected togather to close the circuit. See the drawing: 
 
-<img src="./images/mudbattery_parallel.png" alt="" width="800"/>
+<img src="./images/mudbattery_parallel.png" alt="" width="800"/><br>*Diagram of two mud batteries connected in parallel: the cathode (or minus, black) comes from the mud of battery one and is connected to the cathode of battery 2. The anode (or plus, red) is the wire sitting in the top half in the water, and is connected to the anode of battery two.*
 
 
-### After making the joel thief, the batteries will be connected to it. 
+### After making the joule thief, the batteries will be connected to it. 
 
 
 
 ## Part 2 - Rethinking communication protocols - duration: 4 hours
 
-[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE)
+[![Introduction video for the second part of the Soilpunk workshop](https://user-images.githubusercontent.com/631696/178526281-3b850080-6d19-4b5f-86b0-b7ac16fe4c6f.png)](https://youtu.be/Cb3mlFt85KE) <br> *Introduction video by H&D for the second part of the Soilpunk workshop, click to play on Youtube*
 
 Today we make an inductor circuit also referred to as a "joule thief" to amp up the small voltage we get from the mud battery. Take a look at [this video](https://www.instructables.com/Joule-Thief-Circuit-How-to-Make-and-Circuit-Explan/) to get the basic idea. We will replace the AA battery with our mud battery, and we will add a button to this circuit (and optional: a buzzer) to use it to make light and sound signals. Thus, we are creating the basic setup for encoding and sending information (on/off, zeros/ones, lights/no light, sound/no sound). With this workshop and the simple parameters it provides we propose to explore the concept of communication protocols that we encounter every day in implicit and explicit ways, AND create our own protocols for communication using a very bare bones, hyperlocal, low energy infrastructure!  
 
@@ -239,7 +240,7 @@ As part of the second part of this workshop we propose you read excerpts from th
 
 Then, let's meet on this [Etherpad](https://etherpad.hackersanddesigners.nl/p/soilpunk-workshop-hdsa2022) with all nodes on **Tuesday 9.00-10.00AM CET = 4.00-5.00 PM KST = 7.00-8.00 PM NZST** to discuss the text together. We will prepare some questions and prompts that will be released to activate and create a dramaturgy for the discussion in the pad. 
 
-We will also have a [BBB room](https://bbb.constantvzw.org/b/hd4-tzj-me3-3sa) open. But most of the discussion will happen in writing on the pad. We hope through this shared moment we can facilitate an moment of connectedness across nodes/scripts/space/time.
+We will also have a [Zoom room](https://zoom.us/j/97942813880?pwd=Y1B3d20rU09YVEw3QWdwbERZSWJ4Zz09) open. But most of the discussion will happen in writing on the pad. We hope through this shared moment we can facilitate an moment of connectedness across nodes/scripts/space/time.
 
 If your schedule doesn't allow you to join this live session, we suggest you browse the pad afterwards (ideally before you start workshop day 2) and read through the discussion that unfolded (you may still add to it!)
 
@@ -292,11 +293,11 @@ We all experience troubled transmission all the time. Broken connection, low ban
 * SPI protocol: [https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all#whats-wrong-with-serial-ports)
 
 
-### Make a Joule Thief - approx 60 mins
+### Make a Joule Thief - approx 90 mins
 
 This paragraph describes how you can build an inductor circuit that can power an LED with as little as 0.65V (in comparison: typically you need 2V). Our mud battery is likely to be able to supply this amount after 24 hours if all went well. We added a button to the circuit so the device can double as an extremely simple communication device. By connecting the LED you can send light patterns using the button. If you replace the LED with the little buzzer you can send sound signals. 
 
-<img src="./images/joulethief_simple.jpeg" alt="" width="600"/>
+<img src="./images/joulethief_simple.jpeg" alt="" width="600"/><br>*Image of a working joule thief circuit that lights up an LED when a button is pressed.*
 
 Build a joule thief circuit with the components provided, following the step-by-step instructions in the script (an adaptation of this [Dutch tutorial](https://ingegno.be/realisations/jouledief.html)) There are a lot of similar tutorials so if anything is unclear it's worth looking around a bit, maybe somebody else has a way of explaining that is clearer for you :) 
 
@@ -309,31 +310,30 @@ Build a joule thief circuit with the components provided, following the step-by-
 
 * Gather the tools and materials listed at the top. 
 
-
-<img src="./images/copperwire.jpeg" alt="" width="600"/>
+<img src="./images/copperwire.jpeg" alt="" width="600"/><br>*Image of a folded piece of enamelled copper wire, wound around the ferrite bead twice*
 
 - take approx. 100 cm of enameled copper wire and fold in half
 - try not to make bumps and tangles, keep wire nice and smooth
 - loop the closed end through the ferrite toroid, keep about 4 cm 
 
-<img src="./images/20windings.jpeg" alt="" width="600"/>
+<img src="./images/20windings.jpeg" alt="" width="600"/><br>*Image of a ferrite bead with approx 10 double windings and the words “make 20 windings”*
 
 - make 20 windings with the double wire, make sure they sit next to each other neatly.
 - clip the ends, make sure you have about 4 cm left
 - now clip the closed end of the loop from the beginning of the coil
 - you now have 2 separate wires wrapped around the ring, creating 4 loose leads: 2 going into the coil , and 2 coming out of the coil at the end of your winding.
 
-<img src="./images/stripwires.jpeg" alt="" width="600"/>
+<img src="./images/stripwires.jpeg" alt="" width="600"/><br>*Image of three copper wires that had the enamel burned and sanded off. The sanded part has a lighter copper color than the enameled bit. In the background: a lighter and a piece of sanding paper.*
 
 - for all four ends, take a lighter and burn off the plastic enamel wrapping the copper wire (you might not see it but it's there and acts as an insulator, preventing electricity to go through). 
 - sand off the ends until you see copper color that is slightly lighter than before.
 - next, you want to take a lead from the beginning of (and going into) the coil, and connect it to an one of the end leads coming out of the coil. But these two should not be the same wire! So check with the multimeter that it's the other wire you are connecting (see images). Wrap these around each other a couple times, making sure you still have 2 cm untangled wire at the end. In the pictures we marked the two different wires with two piece of tape before coiling, then you can see it without a multimeter too. 
 
-<img src="./images/markwires.jpeg" alt="" width="600"/>
+<img src="./images/markwires.jpeg" alt="" width="600"/><br>*Image of the finished coil: the wire is clipped so there are now 4 leads, two are marked with a piece of tape, these are the same wire coming in and going out of the coil (we need this information for the next step)*
 
 - take a multimeter and match which lead at the beginning is connected to an end lead (use the continuity setting, if it beeps, it's the same wire).
 
-<img src="./images/connectwires.jpeg" alt="" width="600"/>
+<img src="./images/connectwires.jpeg" alt="" width="600"/><br>*Image of the same finished coil, now with two wires wrapped around one another: one is marked with a piece of tape and the other isn’t. One wire is going “into” the coil, the other is coming out the other end.*
 
 - this is your inductor! the two connected leads will be connected to the positive + side of your AA or mud battery, and the two other separate leads are connected to the transistor and the resistors as shown in the images of the circuit. 
 
@@ -344,7 +344,7 @@ More info about joule thieves and its history on [wikipedia](https://en.wikipedi
 
 Gather all your components. These should be in the kit provided to your node, or if you are a remote participant, you will have received a shopping list. The parts might look slighty different but recognisable. You will also receive a battery clip for easier connecting to the breadboard with crocodile clips.
 
-<img src="./images/circuit.png" alt="" width="600"/>
+<img src="./images/circuit.png" alt="" width="600"/><br>*Diagram of the circuit built with a small breadboard. You can put a buzzer instead of an LED for sound output (use the same positions for the legs). Here is a description of the connections: The transistor's flat side is facing us. The left leg of the transistor is connected to C3 of the breadboard, in the same line with the cathode (short leg) of the LED (D3), and the black wire of the battery going to its negative pole or - (A3). The anode of the LED (long leg) crosses the gap in the breadboard to F3, in line with a jumper wire from H3 to H12. The middle leg of the transistor is in C6, in line with one leg of the resistor (B6). The other leg of the resistor goes to B10. The right leg of the resistor is connected to C8, in line with a jumper wire from D8 too D14. The tact switch connects the jumper wire, with its four legs connected to E12, E14 and F12 and F14 across the gap in the breadboard. The anode or plus (red) of the battery is connected to A16, in line with the lead of your coil that consists of the two wires you wrapped together, connected to B16. The other two ends of the coil connect to A8 (in line with the right leg of the transistor) and A10 (in line with the resistor).*
 
 **LED:**
 Note that this part has polarity, so should be connected with the right orientation. The LONGER leg (usually with the bend) is marked in RED in the diagrams. The SHORTER leg is marked in BLACK in the images and is always connected to GND (or -).
@@ -361,11 +361,11 @@ The leads on the left side of the coil are not connected to each other. One goes
 
 **Buzzer:** you can use a buzzer by replacing the LED. Just take the LED out and place the puzzer in the rows of the breadboard where the LED used to be. Because the circuit acts as an oscillator, creating a waveform, it can also drive a buzzer. Both are components that can operate like that. You cannot however drive an IC chip with an oscillator. 
 
-<img src="./images/waveform.jpg" alt="" width="400"/>
+<img src="./images/waveform.jpg" alt="" width="400"/><br>*Image of an oscilloscope showing a waveform 38.46kHz at at 0.5V*
 
 In case you want to know the schematic (a bit abstract but can be helpful sometimes)
 
-<img src="./images/schematic.png" alt="schematic diagram of the circuit" width="600"/>
+<img src="./images/schematic.png" alt="schematic diagram of the circuit" width="600"/><br>*Diagram: schematic of the joulethief circuit we built*
 
 ##### Step 3: test the circuit with a 1.5V battery
 
@@ -378,7 +378,7 @@ Check that your circuit works by connecting one 1.5V AA battery to it. The LED s
 
 **Flickering LED?** The copper wire is a bit too thin for the holes in the breadboard. If you get a lot of flickering when you connect it to a battery, you probably need to help those connections a little bit. You can cut three short pieces of solid core hookup wire, strip the ends, and solder them to the coil leads. This will help them connect better. 
 
-<img src="./images/coil_leads.jpg" alt="" width="600"/>
+<img src="./images/coil_leads.jpg" alt="" width="600"/><br>*Image of the inductor coil we made, with a small piece of solid core wire soldered to each of the 3 legs.*
 
 ***Optional***: replace the LED with a **buzzer** to send sound signals. The sound may be lower/higher depending on the amount of windings in your coil, and the Voltage of the battery. Changing the value of the resistor can tweak this a bit (try some resistors in the 400-2000 Ohm range if you have them).
 
@@ -395,7 +395,7 @@ Test the mud batteries with a voltmeter and find the positive and negative pole.
 	- Connect the negative end to the hole #3 on the breadboard 
 	- Connect the positive end to the hole #16 on the breadboard
 
-<img src="./images/circuit.png" alt="" width="600"/>
+<img src="./images/circuit.png" alt="" width="600"/><br>*Diagram of the circuit (the same as the one shown above)*
 
 
 ### Design a communication protocol for your device - approx 60 mins
