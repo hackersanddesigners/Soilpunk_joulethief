@@ -150,14 +150,10 @@ Watch this introductory video together prepared by Hackitects, then continue fol
 
 Scientists have experimented with a variety of bacteria, but one kind that environmental microbiologist Derek Lovly at the University of Massachusetts at Amherst and his colleagues have focused on is Geobacter, which is naturally found in many soils and sediments. 
 
-<img src="./images/geobacter.png" alt="" width="600"/><br>*Image of a forest with the sentence "The Geobacter sulfurreducens is a bacteria that can purify water while continuously excreting electrons to its surrounding."*
-
 Geobacter grows by breaking down organic materials and transferring electrons pretty much onto anything that looks like iron", he said. "It's up in the top of the list in terms of generating high power densities.
 
 When attacking environmental pollutants such as aromatic hydrocarbons, Geobacter can break down some 90 percent, Lovley said. All in all, systems incorporating Geobacter can recover up to nearly all the electrons within sewage. 
 
-<img src="./images/geobacter_sulfurreducens.png" alt="" width="600"/><br>*Table 1: Comparison of geobattery with previous microbial fuel cells. Column 1: Previous microbial fuel cells. Oxidation of organic fuel: incomplete. Requirement for toxic electron shuttles to function: yes. Recovery of electrons as electricity: 1-50%. Long-term stability: poor. Ability to function in “open” environments: No. Column 2: Geo battery
-Oxidation of organic fuel: complete. Requirement for toxic electron shuttles to function: No. Recovery of electrons as electricity: 80-95%. Long-term stability: excellent. Ability to function in “open” environments: Yes.*
 
 **Where to find geobacter?**
 
